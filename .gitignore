@@ -1,0 +1,6 @@
+*.pyc
+*.bak
+*.out
+*.esp
+*.esm
+parsetab.py

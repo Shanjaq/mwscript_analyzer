@@ -28,7 +28,7 @@ endif
 
 end'''
 
-debug = False
+debug = True
 
 if debug:
 
